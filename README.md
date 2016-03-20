@@ -2,7 +2,7 @@
 
 
 # Group Assignment Content
-1. Introduction and problem statement
+### 1. Introduction and problem statement
 What problem are you trying to solve? Why is this important?
 
 ### 2. Background
